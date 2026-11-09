@@ -1,6 +1,6 @@
 [package]
 name = "mini-monocypher"
-version = "0.3.1"
+version = "0.3.2"
 authors = ["Naveen Nathan <naveen@lastninja.net>"]
 description = "C-like Monocypher API with Rust safety where it makes sense"
 documentation = "https://docs.rs/mini-monocypher"
@@ -15,7 +15,7 @@ exclude = [".github/", ".gitmodules", "tests/upstream.rs", "tests/upstream/"]
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-mini-monocypher-sys = { version = "0.1.4", path = "./mini-monocypher-sys" }
+mini-monocypher-sys = { version = "0.1.5", path = "./mini-monocypher-sys" }
 
 [dev-dependencies]
 rand_core = { version = "0.6.4", features = ["getrandom"] }
