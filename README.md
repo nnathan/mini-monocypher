@@ -1,5 +1,8 @@
 # mini-monocypher
 
+[![Crates.io](https://img.shields.io/crates/v/mini-monocypher.svg)](https://crates.io/crates/mini-monocypher)
+[![Docs.rs](https://docs.rs/mini-monocypher/badge.svg)](https://docs.rs/mini-monocypher)
+
 mini-monocypher provides API bindings to [Monocypher](https://monocypher.org/) via the raw FFI bindings provided by mini-monocypher-sys.
 
 ## Status

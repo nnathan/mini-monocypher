@@ -1,5 +1,8 @@
 # mini-monocypher-sys
 
+[![Crates.io](https://img.shields.io/crates/v/mini-monocypher-sys.svg)](https://crates.io/crates/mini-monocypher-sys)
+[![Docs.rs](https://docs.rs/mini-monocypher-sys/badge.svg)](https://docs.rs/mini-monocypher-sys)
+
 mini-monocypher-sys provides bindgen generated C bindings to [Monocypher](https://monocypher.org/) C library. It is the raw layer used by the mini-monocypher crate.
 
 ## Status
